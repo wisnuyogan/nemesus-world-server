@@ -34,7 +34,7 @@ namespace NemesusWorld.Database
             adminpassword = "";
             server_created = 1609462861;
             punishments = 0;
-            voicerp = 0;
+            voicerp = 1;
             govvalue = 0;
             changelogcd = 1609462861;
             towedcash = 250;

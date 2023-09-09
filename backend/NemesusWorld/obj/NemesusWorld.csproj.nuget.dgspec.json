@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "J:\\Tutorials\\nemesus-world-server\\backend\\NemesusWorld\\NemesusWorld.csproj": {}
+    "D:\\nemesus-world-server\\backend\\NemesusWorld\\NemesusWorld.csproj": {}
   },
   "projects": {
-    "J:\\Tutorials\\nemesus-world-server\\backend\\NemesusWorld\\NemesusWorld.csproj": {
+    "D:\\nemesus-world-server\\backend\\NemesusWorld\\NemesusWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "J:\\Tutorials\\nemesus-world-server\\backend\\NemesusWorld\\NemesusWorld.csproj",
+        "projectUniqueName": "D:\\nemesus-world-server\\backend\\NemesusWorld\\NemesusWorld.csproj",
         "projectName": "NemesusWorld",
-        "projectPath": "J:\\Tutorials\\nemesus-world-server\\backend\\NemesusWorld\\NemesusWorld.csproj",
-        "packagesPath": "C:\\Users\\tschn\\.nuget\\packages\\",
-        "outputPath": "J:\\Tutorials\\nemesus-world-server\\backend\\NemesusWorld\\obj\\",
+        "projectPath": "D:\\nemesus-world-server\\backend\\NemesusWorld\\NemesusWorld.csproj",
+        "packagesPath": "C:\\Users\\wiznu\\.nuget\\packages\\",
+        "outputPath": "D:\\nemesus-world-server\\backend\\NemesusWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\tschn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\wiznu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -71,7 +71,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -80,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.426\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

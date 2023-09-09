@@ -41,3 +41,14 @@ J:\Tutorials\nemesus-world-server\backend\NemesusWorld\obj\Debug\NemesusWorld.cs
 J:\Tutorials\nemesus-world-server\backend\NemesusWorld\obj\Debug\NemesusWorld.dll
 J:\Tutorials\nemesus-world-server\backend\NemesusWorld\obj\Debug\NemesusWorld.pdb
 J:\Tutorials\nemesus-world-server\backend\NemesusWorld\obj\Debug\NemesusWorld.csproj.AssemblyReference.cache
+D:\nemesus-world-server\dotnet\resources\NemesusWorld\NemesusWorld.deps.json
+D:\nemesus-world-server\dotnet\resources\NemesusWorld\NemesusWorld.dll
+D:\nemesus-world-server\dotnet\resources\NemesusWorld\NemesusWorld.pdb
+D:\nemesus-world-server\backend\NemesusWorld\obj\Debug\NemesusWorld.csproj.AssemblyReference.cache
+D:\nemesus-world-server\backend\NemesusWorld\obj\Debug\NemesusWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\nemesus-world-server\backend\NemesusWorld\obj\Debug\NemesusWorld.AssemblyInfoInputs.cache
+D:\nemesus-world-server\backend\NemesusWorld\obj\Debug\NemesusWorld.AssemblyInfo.cs
+D:\nemesus-world-server\backend\NemesusWorld\obj\Debug\NemesusWorld.csproj.CoreCompileInputs.cache
+D:\nemesus-world-server\backend\NemesusWorld\obj\Debug\NemesusWorld.csproj.CopyComplete
+D:\nemesus-world-server\backend\NemesusWorld\obj\Debug\NemesusWorld.dll
+D:\nemesus-world-server\backend\NemesusWorld\obj\Debug\NemesusWorld.pdb

@@ -2,8 +2,8 @@
   "profiles": {
     "NemesusWorld": {
       "commandName": "Executable",
-      "executablePath": "E:\\GTA 5 Development\\Nemesus-World\\ragemp-server.exe",
-      "workingDirectory": "E:\\GTA 5 Development\\Nemesus-World"
+      "executablePath": "D:\\nemesus-world-server\\ragemp-server.exe",
+      "workingDirectory": "D:\\nemesus-world-server"
     }
   }
 }

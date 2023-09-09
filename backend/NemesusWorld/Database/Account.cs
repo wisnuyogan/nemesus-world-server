@@ -12,8 +12,8 @@ namespace NemesusWorld.Database
 {
     class Account : Script
     {
-        public enum AdminRanks { KeinAdmin, ProbeModerator, Moderator, Supporter, Administrator, HighAdministrator, Manager, Development, Projektleiter };
-        public static string[] AdminNames = { "Kein Admin", "Probe Moderator", "Moderator", "Supporter", "Administrator", "High Administrator", "Manager", "Development", "Projektleiter" };
+        public enum AdminRanks { KeinAdmin, ProbeModerator, Moderator, Supporter, Administrator, HighAdministrator, Manager, Development, Executive };
+        public static string[] AdminNames = { "Kein Admin", "Probe Moderator", "Moderator", "Supporter", "Administrator", "High Administrator", "Manager", "Development", "Executive" };
 
         public int id { get; set; }
         public string name { get; set; }
@@ -104,7 +104,7 @@ namespace NemesusWorld.Database
             forumcode = 0;
             forumupdate = 1609462861;
             autologin = 0;
-            rpquizfinish = 0;
+            rpquizfinish = 1;
             crosshair = 17;
             shootingrange = 0;
             faq = "1,0,0,0,0,0,0,0,0,0";
@@ -155,7 +155,7 @@ namespace NemesusWorld.Database
             forumcode = 0;
             forumupdate = 1609462861;
             autologin = 0;
-            rpquizfinish = 0;
+            rpquizfinish = 1;
             crosshair = 17;
             shootingrange = 0;
             faq = "1,0,0,0,0,0,0,0,0,0";

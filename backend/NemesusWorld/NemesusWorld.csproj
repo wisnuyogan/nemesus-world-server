@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
-    <OutputPath>J:\Tutorials\nemesus-world-server\dotnet\resources\NemesusWorld\</OutputPath>
+    <OutputPath>D:\nemesus-world-server\dotnet\resources\NemesusWorld\</OutputPath>
     <PlatformTarget>x64</PlatformTarget>
   </PropertyGroup>
 

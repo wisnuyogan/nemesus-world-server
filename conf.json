@@ -1,0 +1,9 @@
+{
+	"maxplayers" : 5,
+	"name" : "RAGE:MP Project Indonesia", 
+	"gamemode" : "roleplay", 
+	"stream-distance" : 350.0,
+	"announce" : true,
+	"csharp" : "enabled",
+	"port": 22005
+}

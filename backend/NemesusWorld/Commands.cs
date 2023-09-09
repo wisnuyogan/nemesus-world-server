@@ -1664,7 +1664,7 @@ namespace NemesusWorld
                 {
                     Helper.SendNotificationWithoutButton(player, "Du kannst den Spieler für max. 5000 Checkpoints ins Prison stecken!", "error");
                 }
-                if (account.adminlevel == (int)Account.AdminRanks.Projektleiter && checkpoints > 999999)
+                if (account.adminlevel == (int)Account.AdminRanks.Executive && checkpoints > 999999)
                 {
                     Helper.SendNotificationWithoutButton(player, "Du kannst den Spieler für max. 999999 Checkpoints ins Prison stecken!", "error");
                 }
@@ -1976,7 +1976,7 @@ namespace NemesusWorld
                 {
                     Helper.SendNotificationWithoutButton(player, "Du kannst den Spieler für max. 1440 Minuten (3 Wochen) bannen!", "error");
                 }
-                if (account.adminlevel < (int)Account.AdminRanks.Projektleiter && time > 1440)
+                if (account.adminlevel < (int)Account.AdminRanks.Executive && time > 1440)
                 {
                     Helper.SendNotificationWithoutButton(player, "Du kannst den Spieler für max. 525600 Minuten (1 Jahr) bannen!", "error");
                 }
@@ -2038,7 +2038,7 @@ namespace NemesusWorld
                 {
                     Helper.SendNotificationWithoutButton(player, "Du kannst den Spieler für max. 1440 Minuten (3 Wochen) bannen!", "error");
                 }
-                if (account.adminlevel < (int)Account.AdminRanks.Projektleiter && time > 1440)
+                if (account.adminlevel < (int)Account.AdminRanks.Executive && time > 1440)
                 {
                     Helper.SendNotificationWithoutButton(player, "Du kannst den Spieler für max. 525600 Minuten (1 Jahr) bannen!", "error");
                 }
